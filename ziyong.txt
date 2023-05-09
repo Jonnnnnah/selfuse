@@ -1,0 +1,6 @@
+# openAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
+# notion
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,amazonaws.com
