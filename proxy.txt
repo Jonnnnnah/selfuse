@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,openai.com
 # notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amazonaws.com
+# cloudflare
+DOMAIN-SUFFIX,cloudflare.com
