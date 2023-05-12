@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amazonaws.com
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
+# cloudflare
+DOMAIN-SUFFIX,ipip.net
