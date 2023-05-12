@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudflare.com
 # ipip.net
 DOMAIN-SUFFIX,ipip.net
+# grillday
+DOMAIN-SUFFIX,grill-day.com
