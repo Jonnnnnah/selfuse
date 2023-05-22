@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,gist.build
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 # ipip.net
