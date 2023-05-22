@@ -1,6 +1,7 @@
 # notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,splunkcloud.com
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 # ipip.net
