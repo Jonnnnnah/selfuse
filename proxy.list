@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,ecothermostat.com
 DOMAIN-SUFFIX,grill-day.com
 # poe
 DOMAIN-SUFFIX,poe.com
+# oracle
+DOMAIN-SUFFIX,oracle.com
