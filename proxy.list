@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,oracle.com
 # jsom
 DOMAIN-SUFFIX,jsom.top
+# image
+DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,imgur.com
