@@ -2,3 +2,5 @@
 DOMAIN-SUFFIX,baidu.com
 # cnip
 GEOIP,cn
+# ty
+DOMAIN-SUFFIX,tanyinbnb.com
