@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutracker.in
 # subconventor
 DOMAIN-SUFFIX,tsutsu.one
-# eco
+# work
 DOMAIN-SUFFIX,ecothermostat.com
 DOMAIN-SUFFIX,grill-day.com
 # poe
@@ -24,3 +24,8 @@ DOMAIN-SUFFIX,jsom.top
 # image
 DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,imgur.com
+# steam
+DOMAIN-SUFFIX,steamcommunity.com
+# claude
+DOMAIN-SUFFIX,claude.ai
+
