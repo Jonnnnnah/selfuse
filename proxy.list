@@ -29,4 +29,6 @@ DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,steamcommunity.com
 # claude
 DOMAIN-SUFFIX,claude.ai
+# appstorrent
+DOMAIN-SUFFIX,appstorrent.ru
 
