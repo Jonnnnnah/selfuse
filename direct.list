@@ -6,5 +6,6 @@ GEOIP,cn
 DOMAIN-SUFFIX,tanyinbnb.com
 # tonymacx86
 DOMAIN-SUFFIX,tonymacx86.com
-# taobao
+# ali
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,1688.com
