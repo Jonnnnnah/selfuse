@@ -37,3 +37,5 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,olevod.tv
 # linkin
 DOMAIN-SUFFIX,linkedin.com
+# oracle
+IP-CIDR,168.138.160.80
