@@ -2,10 +2,10 @@
 DOMAIN-SUFFIX,baidu.com
 # cnip
 GEOIP,cn
-# ty
-DOMAIN-SUFFIX,tanyinbnb.com
 # tonymacx86
 DOMAIN-SUFFIX,tonymacx86.com
 # ali
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,1688.com
+# jsom
+DOMAIN,derper.jsom.top
