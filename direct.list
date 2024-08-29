@@ -11,3 +11,6 @@ DOMAIN,derper-sg.jsom.top
 DOMAIN,rustdesk.jsom.top
 DOMAIN,wg.jsom.top
 DOMAIN,headscale.jsom.top
+# tailscale
+DOMAIN,controlplane.tailscale.com
+DOMAIN,log.tailscale.io
