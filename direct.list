@@ -11,6 +11,8 @@ DOMAIN,wg.jsom.top
 DOMAIN,headscale.jsom.top
 DOMAIN-SUFFIX,mingyuan.pub
 DOMAIN-SUFFIX,20211214.xyz
+DOMAIN-SUFFIX,hyxunpan.com
+DOMAIN-SUFFIX,hywebseo.com
 # tailscale
 DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.io
