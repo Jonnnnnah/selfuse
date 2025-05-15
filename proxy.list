@@ -1,41 +1,7 @@
-# notion
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,splunkcloud.com
-DOMAIN-SUFFIX,gist.build
-# cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-# ipip.net
-DOMAIN-SUFFIX,ipip.net
-# rutracker
-DOMAIN-SUFFIX,rutracker.org
-DOMAIN-SUFFIX,rutracker.in
-# subconventor
-DOMAIN-SUFFIX,tsutsu.one
-# work
-DOMAIN-SUFFIX,ecothermostat.com
-# poe
-DOMAIN-SUFFIX,poe.com
 # oracle
 DOMAIN-SUFFIX,oracle.com
 # jsom
 DOMAIN-SUFFIX,jsom.top
-# image
-DOMAIN-SUFFIX,sm.ms
-DOMAIN-SUFFIX,imgur.com
-# steam
-DOMAIN-SUFFIX,steamcommunity.com
-# claude
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-# appstorrent
-DOMAIN-SUFFIX,appstorrent.ru
-# google ads
-DOMAIN-SUFFIX,google.com
-# oletv
-DOMAIN-SUFFIX,olevod.tv
-# linkin
-DOMAIN-SUFFIX,linkedin.com
 # v2ex
 DOMAIN-SUFFIX,v2ex.com
 # maced
