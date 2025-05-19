@@ -20,3 +20,5 @@ DOMAIN,log.tailscale.io
 DOMAIN-SUFFIX,teandy.com
 #iopq
 DOMAIN-SUFFIX,iopq.net
+#work
+DOMAIN-SUFFIX,dynacocn.com
