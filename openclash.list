@@ -37,3 +37,7 @@
 - DOMAIN-SUFFIX,notion.so,PROXY
 
 #屏蔽
+# spark
+- DOMAIN-SUFFIX,api.revenuecat.com,REJECT
+# screen studio
+- DOMAIN-SUFFIX,api.lemonsqueezy.com,REJECT
