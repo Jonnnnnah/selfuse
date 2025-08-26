@@ -1,1 +1,26 @@
+#直连
+# tonymacx86
+- SRC-IP-SUFFIX,192.168.1.201/8,DIRECT
+- DOMAIN-SUFFIX,tonymacx86.com,DIRECT
+# ali
+- DOMAIN-SUFFIX,taobao.com,DIRECT
+- DOMAIN-SUFFIX,1688.com,DIRECT
+# jsom
+- DOMAIN,derper-sh.jsom.top,DIRECT
+- DOMAIN,derper-sg.jsom.top,DIRECT
+- DOMAIN,rustdesk.jsom.top,DIRECT
+- DOMAIN,wg.jsom.top,DIRECT
+- DOMAIN,headscale.jsom.top,DIRECT
+- DOMAIN-SUFFIX,mingyuan.pub,DIRECT
+- DOMAIN-SUFFIX,20211214.xyz,DIRECT
+- DOMAIN-SUFFIX,hyxunpan.com,DIRECT
+- DOMAIN-SUFFIX,hywebseo.com,DIRECT
+# tailscale
+- DOMAIN,controlplane.tailscale.com,DIRECT
+- DOMAIN,log.tailscale.io,DIRECT
+# ark
+- DOMAIN-SUFFIX,teandy.com,DIRECT
+#iopq
+- DOMAIN-SUFFIX,iopq.net,DIRECT
 
+#代理
