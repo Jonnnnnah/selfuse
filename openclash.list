@@ -1,6 +1,5 @@
 #直连
 # tonymacx86
-- SRC-IP-SUFFIX,192.168.1.201/8,DIRECT
 - DOMAIN-SUFFIX,tonymacx86.com,DIRECT
 # ali
 - DOMAIN-SUFFIX,taobao.com,DIRECT
@@ -24,3 +23,17 @@
 - DOMAIN-SUFFIX,iopq.net,DIRECT
 
 #代理
+# oracle
+- DOMAIN-SUFFIX,oracle.com,PROXY
+# jsom
+- DOMAIN-SUFFIX,wagglyworld.com,PROXY
+# v2ex
+- DOMAIN-SUFFIX,v2ex.com,PROXY
+# maced
+- DOMAIN-SUFFIX,macked.app,PROXY
+# notion
+- DOMAIN-SUFFIX,notionusercontent.com,PROXY
+- DOMAIN-SUFFIX,unsplash.com,PROXY
+- DOMAIN-SUFFIX,notion.so,PROXY
+
+#屏蔽
