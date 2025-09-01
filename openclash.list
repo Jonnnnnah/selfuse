@@ -1,40 +1,46 @@
 #直连
 # tonymacx86
-- DOMAIN-SUFFIX,tonymacx86.com,DIRECT
+- DOMAIN-SUFFIX,tonymacx86.com,🎯 全球直连
 # ali
-- DOMAIN-SUFFIX,taobao.com,DIRECT
-- DOMAIN-SUFFIX,1688.com,DIRECT
+- DOMAIN-SUFFIX,taobao.com,🎯 全球直连
+- DOMAIN-SUFFIX,1688.com,🎯 全球直连
 # jsom
-- DOMAIN,derper-sh.jsom.top,DIRECT
-- DOMAIN,derper-sg.jsom.top,DIRECT
-- DOMAIN,rustdesk.jsom.top,DIRECT
-- DOMAIN,wg.jsom.top,DIRECT
-- DOMAIN,headscale.jsom.top,DIRECT
-- DOMAIN-SUFFIX,mingyuan.pub,DIRECT
-- DOMAIN-SUFFIX,20211214.xyz,DIRECT
-- DOMAIN-SUFFIX,hyxunpan.com,DIRECT
-- DOMAIN-SUFFIX,hywebseo.com,DIRECT
+- DOMAIN,derper-sh.jsom.top,🎯 全球直连
+- DOMAIN,derper-sg.jsom.top,🎯 全球直连
+- DOMAIN,rustdesk.jsom.top,🎯 全球直连
+- DOMAIN,wg.jsom.top,🎯 全球直连
+- DOMAIN,headscale.jsom.top,🎯 全球直连
+- DOMAIN-SUFFIX,mingyuan.pub,🎯 全球直连
+- DOMAIN-SUFFIX,20211214.xyz,🎯 全球直连
+- DOMAIN-SUFFIX,hyxunpan.com,🎯 全球直连
+- DOMAIN-SUFFIX,hywebseo.com,🎯 全球直连
 # tailscale
-- DOMAIN,controlplane.tailscale.com,DIRECT
-- DOMAIN,log.tailscale.io,DIRECT
+- DOMAIN,controlplane.tailscale.com,🎯 全球直连
+- DOMAIN,log.tailscale.io,🎯 全球直连
 # ark
-- DOMAIN-SUFFIX,teandy.com,DIRECT
+- DOMAIN-SUFFIX,teandy.com,🎯 全球直连
 #iopq
-- DOMAIN-SUFFIX,iopq.net,DIRECT
+- DOMAIN-SUFFIX,iopq.net,🎯 全球直连
 
 #代理
 # oracle
-- DOMAIN-SUFFIX,oracle.com,PROXY
+- DOMAIN-SUFFIX,oracle.com,🚀 手动选择
 # jsom
-- DOMAIN-SUFFIX,wagglyworld.com,PROXY
+- DOMAIN-SUFFIX,wagglyworld.com,🚀 手动选择
 # v2ex
-- DOMAIN-SUFFIX,v2ex.com,PROXY
+- DOMAIN-SUFFIX,v2ex.com,🚀 手动选择
 # maced
-- DOMAIN-SUFFIX,macked.app,PROXY
+- DOMAIN-SUFFIX,macked.app,🚀 手动选择
 # notion
-- DOMAIN-SUFFIX,notionusercontent.com,PROXY
-- DOMAIN-SUFFIX,unsplash.com,PROXY
-- DOMAIN-SUFFIX,notion.so,PROXY
+- DOMAIN-SUFFIX,notionusercontent.com,🚀 手动选择
+- DOMAIN-SUFFIX,unsplash.com,🚀 手动选择
+- DOMAIN-SUFFIX,notion.so,🚀 手动选择
+- DOMAIN-SUFFIX,bakamh.com,🚀 手动选择
+- DOMAIN-SUFFIX,nnhm7.com,🚀 手动选择
+- DOMAIN-SUFFIX,nqhziib.com,🚀 手动选择
+- DOMAIN-SUFFIX,njav.ru,🚀 手动选择
+- DOMAIN-SUFFIX,jable.tv,🚀 手动选择
+- DOMAIN-SUFFIX,motv.app,🚀 手动选择
 
 #屏蔽
 # spark
